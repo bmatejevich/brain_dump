@@ -10,4 +10,10 @@
 
 ## Resources
 - [Supply Chain]() 
+
+## To Do
+- [ ] Read through arduplane parameters
+- [ ] Read through ardurover parameters
+- [ ] Read through arducopter parameters
+
   
