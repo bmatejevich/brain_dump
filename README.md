@@ -6,10 +6,12 @@
 - [IP Networking](https://github.com/bmatejevich/brain_dump/tree/master/IP%20Networking)
 - [Ardupilot Parameters](https://github.com/bmatejevich/brain_dump/tree/master/Ardupilot%20Parameters)
 - [3D Printing](https://github.com/bmatejevich/brain_dump/tree/master/3D%20Printing)
+- [Docker]()
+- [DroneKit](https://github.com/dronekit/dronekit-python)
 
 
 ## Resources
-- [Supply Chain]() 
+- [Supply Chain](https://github.com/bmatejevich/brain_dump/tree/master/Supply%20Chain) 
 
 ## To Do
 - [ ] Read through arduplane parameters
